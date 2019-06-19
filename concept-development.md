@@ -6,7 +6,45 @@ A concept is the core idea \(or set of ideas\) that signify core values inherent
 
 Work that lacks strong concept development tends to be obvious, particularly during critique. The first thing you will notice is that there are few questions of substance that you can ask about the work, even after an explanation is given. The second issue you will notice is that all conversation tends to be about technique and process, or what the work could be doing if tweaked or changed, rather than the result, context, and effect of the work. In other words, a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
 
-## Synthesizing vs generating concepts
+## Generating concepts
+
+SECTION IN DRAFT
+
+
+
+ADD relationship to design processes. \(IE design sprint\)
+
+Value: creative catalyst, help with blueprinting a project concept.
+
+1. start: topic, media
+2. How to research? Start with a source.
+   1. How will you approach the source? Essay review that takes issue.
+      1. Where do you find it?
+         1. Design exhibitions
+         2. Studios
+         3. Internet searches
+         4. Library
+3. Statement or question?
+
+Bounding \(Top down\)
+
+Activating \(Top down\)
+
+Revealing \(Bottom up\)
+
+Situating \(Top Down\)
+
+Intervening \(Top down, bottom up\)
+
+Project concepts are mixtures of these activities.
+
+concept question problem relationships
+
+observation
+
+analysis
+
+synthesis
 
 Sometimes you are given a concept to respond to or asked to establish a concept, and other times you produce work and analyze the outcomes to develop concepts after the fact. Concept-first is often referred to as a **Top-down Approach**. A project in-which the concept comes after something is produced is referred to as a **Bottom-up Approach**. Often, you will set out pursuing one concept, only to change after you have started or have finished a project.
 
@@ -24,42 +62,7 @@ Forming new mental models is how insights are created. These are the coveted "Ah
 
 In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude \(optimism\) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
 
-## Conceptual models
-
-SECTION IN DRAFT
-
-Value: creative catalyst, help with blueprinting a project concept.
+## 
 
 
-
-1. start: topic, media
-2. How to research? Start with a source.
-   1. How will you approach the source? Essay review that takes issue.
-      1. Where do you find it?
-         1. Design exhibitions
-         2. Studios
-         3. Internet searches
-         4. Library
-
-Bounding \(Top down\)
-
-Activating \(Top down\)
-
-Revealing \(Bottom up\)
-
-Situating \(Top Down\)
-
-Intervening \(Top down, bottom up\)
-
-
-
-Project concepts are mixtures of these activities.
-
-concept question problem relationships
-
-observation
-
-analysis
-
-synthesis
 
