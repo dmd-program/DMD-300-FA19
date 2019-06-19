@@ -1,6 +1,6 @@
 # Concept development
 
->... a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
+> ... a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
 
 A concept is the core idea \(or set of ideas\) that signify core values inherent in a project, process, or thing. Even when not explicitly stated, the concept is the intellectual and practical motivation behind any endeavored project. Concepts can range from simple, subjective, and abstract to complex, hyper-specific, and didactic.
 
@@ -14,7 +14,7 @@ Concept development can be a difficult task, particularly if you are not immerse
 
 ## Mental model
 
->Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students.
+> Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students.
 
 **Synonyms:** World view; perspective; conceptual understanding.
 
@@ -22,5 +22,44 @@ A mental model is your interpretation of how a something works. Mental models de
 
 Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students. Insights are a form of knowledge, and so developing new mental models help foster the production of new knowledge and expand the world as humans can understand and experience it.
 
-In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude (optimism) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
+In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude \(optimism\) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
+
+## Conceptual models
+
+SECTION IN DRAFT
+
+Value: creative catalyst, help with blueprinting a project concept.
+
+
+
+1. start: topic, media
+2. How to research? Start with a source.
+   1. How will you approach the source? Essay review that takes issue.
+      1. Where do you find it?
+         1. Design exhibitions
+         2. Studios
+         3. Internet searches
+         4. Library
+
+Bounding \(Top down\)
+
+Activating \(Top down\)
+
+Revealing \(Bottom up\)
+
+Situating \(Top Down\)
+
+Intervening \(Top down, bottom up\)
+
+
+
+Project concepts are mixtures of these activities.
+
+concept question problem relationships
+
+observation
+
+analysis
+
+synthesis
 

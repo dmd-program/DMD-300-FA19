@@ -1,6 +1,7 @@
 # Project 2
 
 ## Description
+
 For this project, you will produce a digital design work that critically engages with the project's theme. You will also develop a design concept, production process, and a well-articulated work statement to explains your work to a wide audience. Your work will then be collectively displayed in a class-wide online exhibition.
 
 ## Project title and theme
@@ -27,12 +28,12 @@ Futures projects are typically optimistic works that engage with important topic
 
 ## Deliverables
 
-1. **[Production blog](/design-project-2/project-2-production-reports.md)** (Canvas)
-2. **[Concept pitch](/design-project-2/project-2-concept-pitch.md)** (Canvas, production blog)
-3. **[Production Reports](/design-project-2/project-2-production-reports.md)** (Production blog)
-4. **[Work statement](/design-project-2/project-2-work-statement.md)** that uses design language (Canvas)
-5. **[Project files:](/design-project-2/project-2-files.md)** (Canvas)
-6. **[Project documentation](/design-project-2/project-2-documentation.md)** (Canvas, production blog)
+1. [**Production blog**](/design-project-2/project-2-production-reports.md) \(Canvas\)
+2. [**Concept pitch**](/design-project-2/project-2-concept-pitch.md) \(Canvas, production blog\)
+3. [**Production Reports**](/design-project-2/project-2-production-reports.md) \(Production blog\)
+4. [**Work statement**](/design-project-2/project-2-work-statement.md) that uses design language \(Canvas\)
+5. [**Project files:**](/design-project-2/project-2-files.md) \(Canvas\)
+6. [**Project documentation**](/design-project-2/project-2-documentation.md) \(Canvas, production blog\)
 7. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
 
 ---
@@ -43,7 +44,7 @@ Futures projects are typically optimistic works that engage with important topic
   * Read Project 2 description
   * Schedule one-on-one discussion with instructor
 * **Week 8**
-  * Concept pitch slides are due (Canvas).
+  * Concept pitch slides are due \(Canvas\).
 * **Week 9**
   * Production Report \#1 due
 * **Week 10**
@@ -63,10 +64,11 @@ Futures projects are typically optimistic works that engage with important topic
     1. Project Files
     2. Final Work Statement
     3. Project Documentation
-    
+
 ---
 
 ## Project media
+
 If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md). This is not a comprehensive list, but you should be able to locate your own creative interests within.
 
 ---
