@@ -3,7 +3,7 @@
 * **Animation \(2D, 3D\)**
   * Short film
   * Explainer animation
-  * motion graphics \(bumper animations, commercials, 
+  * motion graphics \(bumper animations, commercials, titles)
   * Experimental
   * VJ Loops
   * Projection Mapping
