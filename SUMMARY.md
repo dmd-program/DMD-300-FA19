@@ -20,5 +20,4 @@
     * [Project 2 Documentation](design-project-2/project-2-documentation.md)
     * [Project 2 Files](design-project-2/project-2-files.md)
 * [License](license.md)
-* [Conceptual models](conceptual-models.md)
 

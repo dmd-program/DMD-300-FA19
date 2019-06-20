@@ -61,8 +61,3 @@ A mental model is your interpretation of how a something works. Mental models de
 Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students. Insights are a form of knowledge, and so developing new mental models help foster the production of new knowledge and expand the world as humans can understand and experience it.
 
 In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude \(optimism\) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
-
-## 
-
-
-
