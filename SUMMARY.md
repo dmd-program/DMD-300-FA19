@@ -11,6 +11,7 @@
   * [Documentation resources](documentation-resources.md)
   * [Digital Design Project Types](digital-design-project-types.md)
 * [Projects](projects.md)
+  * [Writing Project](writing-project.md)
   * [Group design project](project-1.md)
     * [Weekly activity reports](project-1/weekly-activity-reports.md)
     * [Phase 1: Gather and organize](project-1/phase-1-gather-and-organize.md)
@@ -25,6 +26,5 @@
     * [Project 2 Production Reports](design-project-2/project-2-production-reports.md)
     * [Project 2 Documentation](design-project-2/project-2-documentation.md)
     * [Project 2 Files](design-project-2/project-2-files.md)
-  * [Writing Project](writing-project.md)
 * [License](license.md)
 
