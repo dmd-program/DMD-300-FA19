@@ -26,12 +26,12 @@
     * [Project 2 Production Reports](design-project-2/project-2-production-reports.md)
     * [Project 2 Documentation](design-project-2/project-2-documentation.md)
     * [Project 2 Files](design-project-2/project-2-files.md)
-* Project categories
-  * Animation
-  * Realtime and interactive
-  * Product, service, UI/UX
-  * 2D / 3D design and illustration
-  * Video production
-  * Art or design intervention
+* [Project categories](project-categories.md)
+  * [Animation](animation.md)
+  * [Realtime and interactive](realtime-and-interactive.md)
+  * [Product, service, UI/UX](product-service-uiux.md)
+  * [2D / 3D design and illustration](2d-3d-design-and-illustration.md)
+  * [Video production](video-production.md)
+  * [Art or design intervention](art-or-design-intervention.md)
 * [License](license.md)
 
