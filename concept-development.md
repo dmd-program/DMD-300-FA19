@@ -1,63 +1,32 @@
 # Concept development
 
-> ... a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
+A concept is a core idea \(or set of ideas\) that signify basic values, motivations and practices inherent in a project. A project lacking strong concept development tends to be shallow and without regard for cultural and community contexts, which will become apparent during discussion and critique. There are two typical concept development approaches. The _directed concept approach_ refers to when a concept is established and defined at the beginning stages of project development, and the _emerging concept approach_ is were the concept is allowed to emerge and evolve during the production of a project.
 
-A concept is the core idea \(or set of ideas\) that signify core values inherent in a project, process, or thing. Even when not explicitly stated, the concept is the intellectual and practical motivation behind any endeavored project. Concepts can range from simple, subjective, and abstract to complex, hyper-specific, and didactic.
+**Situating \(Directed concept approach\):**
 
-Work that lacks strong concept development tends to be obvious, particularly during critique. The first thing you will notice is that there are few questions of substance that you can ask about the work, even after an explanation is given. The second issue you will notice is that all conversation tends to be about technique and process, or what the work could be doing if tweaked or changed, rather than the result, context, and effect of the work. In other words, a work with a weak concept lacks intellectual grounding – acknowledgement of historical, cultural, social, and other contexts with which it hopes to engage.
+* "Top-down" approach
+* Process of deduction
 
-## Generating concepts
+Concepts are directed through a mapping process either before or in the beginning stages of a project. An interpretation of outcomes of an inquiry will depend in part on the frame of reference of existing knowledge. What is known helps identify what is not. Situating is a method that opens up lines of inquiry commonly used to review literature and information sources in the public domain. Situating is a curatorial process for looking at existing things in new ways.
 
-SECTION IN DRAFT
+**Revealing \(Emerging concept approach\):**
 
+* "Bottom-up" approach
+* Process of induction
 
+Concepts emerge over the course of the project through an ongoing discovery process. A core purpose of inquiry is to discover new knowledge or the possibility of thinking about things in new, innovative ways. To reveal something relies on others experiencing a change of awareness or understanding. Revealing, therefore is not only a method of discovery, but requires multiple ways of communicating to target groups and others.
 
-ADD relationship to design processes. \(IE design sprint\)
+## How to develop a good concept
 
-Value: creative catalyst, help with blueprinting a project concept.
+Creative thinking methods are helpful for identifying a concept. However, more often than not, everyday observations are enough to spark an idea. It is helpful to keep around a small notebook or store a running list of ideas on a mobile device.
 
-1. start: topic, media
-2. How to research? Start with a source.
-   1. How will you approach the source? Essay review that takes issue.
-      1. Where do you find it?
-         1. Design exhibitions
-         2. Studios
-         3. Internet searches
-         4. Library
-3. Statement or question?
+**Key features of a good concept:**
 
-Bounding \(Top down\)
+1. Feasible to accomplish in the given timeframe
+2. Invention and/or unexpected combinations to produce novelty 
+3. Links to relevant cultural, historical, social contexts
+4. Explores moral and ethical issues or quandaries
+5. Aesthetic and theoretical explorations
 
-Activating \(Top down\)
+In DMD 100, students are guided through the entire production of three projects through a careful orchestration of design thinking exercises and a set of rules or criteria that bounded the scope. The rules set in place made it so that the student could concentrate on the content of the project, rather than finding an appropriate scale and bounds for the project. In a capstone project, students are responsible for establishing these rules for themselves, an often difficult task that takes practice to master.
 
-Revealing \(Bottom up\)
-
-Situating \(Top Down\)
-
-Intervening \(Top down, bottom up\)
-
-Project concepts are mixtures of these activities.
-
-concept question problem relationships
-
-observation
-
-analysis
-
-synthesis
-
-Sometimes you are given a concept to respond to or asked to establish a concept, and other times you produce work and analyze the outcomes to develop concepts after the fact. Concept-first is often referred to as a **Top-down Approach**. A project in-which the concept comes after something is produced is referred to as a **Bottom-up Approach**. Often, you will set out pursuing one concept, only to change after you have started or have finished a project.
-
-Concept development can be a difficult task, particularly if you are not immersed in a problem space, are in un-creative or dull surroundings, and are not properly gathering and thinking about ways of combining ideas. It can be a rather common occurrence that when given a project deadline, most of the time is used up for concept development. [Design thinking methods](/design-process-and-methods.md) and [Synectics](https://en.wikipedia.org/wiki/Synectics) can be used to generate new, relevant, and thought-provoking concepts rather quickly. A design process that you might use to realize an art or design project could also be used to generate the concept itself since the principles are effectively the same; emphasize quick prototyping, testing, analysis, and iteration.
-
-## Mental model
-
-> Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students.
-
-**Synonyms:** World view; perspective; conceptual understanding.
-
-A mental model is your interpretation of how a something works. Mental models develop based on a person's total personal experiences, and there is no fundamental difference between someone's "perspective" and their mental model. If someone has been deemed an expert in a particular area, it is often because they have been privy to a large variety of mental models, evaluated them, and applied logic and reason to land on the most correct model as their basis for understanding. Mental models can be created on the fly, and there sometimes are no correct ones, or it is at least not possible to know if one is correct. This is why forming an absolute opinion is a hinderance to good design, the model can and should change at any time, and while they should be vetted for ethics, safety, and inclusion, ignoring or disregarding an alternate mental model ultimately hinders innovation. Assumptions about a person's mental model is a form of bias, and designer spend a lot of time seeking to understand what and how people actually perceive rather than making design decisions based on assumptions.
-
-Forming new mental models is how insights are created. These are the coveted "Ah ha!" moments that educators seek to provide for their students. Insights are a form of knowledge, and so developing new mental models help foster the production of new knowledge and expand the world as humans can understand and experience it.
-
-In politics, you often see people with a mix of absolute perspectives, flexible perspectives depending on what presents the most opportunity \(negatively termed flip-flopping\), and open-minded perspectives able to adopt new mental models as logic and reason dictate. Designing for a community and society with diverse, conflicting arrays of mental models can seem like an impossible challenge, and can be discouraging. Adopting an unwavering, can-do attitude \(optimism\) can stave off pessimism, and will help designers produce good design work in challenging circumstances.
