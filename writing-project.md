@@ -22,8 +22,8 @@ Please use MS Word for this project.
 
 Rubric
 
-1. Word count met: 10%
-2. Formal writing style. Includes use of art and design vocabulary throughout writing: 35% 
+1. Word count met: 5%
+2. Formal writing style. Includes use of art and design vocabulary throughout writing: 40% 
   * [This list is a decent reference](http://learn.leighcotnoir.com/artspeak/art-vocabulary/).
-4. Thoughtfully and critically answered writing prompts: 35%
+4. Thoughtfully and critically answered writing prompts: 45%
 3. Spelling, punctuation, grammar: 10%
