@@ -83,7 +83,7 @@ Exhibitions typically have a central theme—a conceptual thread that links the 
 
 All project deliverables must be met for the project to be graded. A non-submission or non-completion for any part of the project is considered an incomplete project.
 
-1. Complied with all deliverable requirements: 20%
+1. Met all deliverable requirements: 20%
 2. Project outcomes: 
    * Concept: 20%
    * Craft: 20%
