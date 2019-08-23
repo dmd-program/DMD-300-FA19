@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, you will work in small team to produce a design process, digital media, and documentation. Your team will build it's own project by setting meeting agendas, creating a concept pitch, develop and use a design process/sprint structure, track and document progress using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, speculative design, wayfinding, identity systems, toolkits, educational materials, etc.
+In this project, you will work in small team to produce a design process, digital media, and documentation. Your team will build its own project by setting meeting agendas, creating a concept pitch, develop and use a design process/sprint structure, track and document progress using a project blog, and produce project documentation. The project outcomes can take the form of any combination of digital media formats including 2D, 3D, video and motion design, interactive and web, UX/UI app design, and product design. The projects could emphasize a wide range of approaches including tool building, product or service, marketing or awareness campaigns, calls to action, open-source tools, traditional or experimental digital story telling, speculative design, wayfinding, identity systems, toolkits, educational materials, etc.
 
 **The project's concept focus word:** "Nudge"
 
