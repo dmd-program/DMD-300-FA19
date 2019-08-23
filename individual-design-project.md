@@ -24,8 +24,6 @@ Futures projects are typically optimistic works that engage with important topic
 * [London College of Comm](https://masedi.myblog.arts.ac.uk/tag/global-design-futures/)
 * [Learn2050](http://www.idsa.org/educationpaper/learn2050-and-design-futures)
 
----
-
 ## Deliverables
 
 1. [**Production blog**](/design-project-2/project-2-production-reports.md) \(Canvas\)
@@ -34,50 +32,16 @@ Futures projects are typically optimistic works that engage with important topic
 4. [**Work statement**](/design-project-2/project-2-work-statement.md) that uses design language \(Canvas\)
 5. [**Project files:**](/design-project-2/project-2-files.md) \(Canvas\)
 6. [**Project documentation**](/design-project-2/project-2-documentation.md) \(Canvas, production blog\)
-7. **Online exhibition information form:** [Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=RY30fNs9iUOpwcEVUm61LpKTUYPpqWVNtct2hclEf_pUNkI5Sk9URUNURVg1RTFZOTdHMDQ3TFhVMC4u)
+7. **Online exhibition information form: See on Canvas**
 
----
-
-## Schedule
-
-* **Week 7**
-  * Read Project 2 description
-  * Schedule one-on-one discussion with instructor
-* **Week 8**
-  * Concept pitch slides are due \(Canvas\).
-* **Week 9**
-  * Production Report \#1 due
-* **Week 10**
-  * Production Report \#2 due
-* **Week 11**
-  * Mid-production Instructor Check-in
-  * Work statement draft \#1 due
-  * Production Report \#3 due
-* **Week 12**
-  * Production Report \#4 due
-* **Week 13**
-  * Production Report \#5 due
-  * Work Statement Draft \#2 due
-* **Week 14**
-  * Complete exhibition form
-  * **Submissions:**
-    1. Project Files
-    2. Final Work Statement
-    3. Project Documentation
-
----
 
 ## Project media
 
-If you are unsure of what types of digital projects are available to create, please have a look at the list of [digital design project types](/digital-design-project-types.md). This is not a comprehensive list, but you should be able to locate your own creative interests within.
-
----
+If you are unsure of what types of digital projects are available to create, please have a look at the [project categories](/project-categories.md). This is not a comprehensive list, but you should be able to locate your own creative interests within.
 
 ## Online Exhibition
 
-Exhibitions typically have a central theme—a conceptual thread that links the work together. Exhibition curators contextualize selected works which often ascribes new or additional meaning to the individual works as a result. The online exhibition's theme will be chosen after student projects are completed. DMD 300 online exhibitions are designed to run back to back, and will last until the next cohort of DMD 300 students participate. This makes the exhibition duration somewhat variable, but should not last more than one year and no less than a single semester. Your instructor will coordinate the exhibition, which will be available in two options; a Penn State only online exhibition, and a fully public online exhibition. Students choosing to participate in the fully public exhibition will also have their work shown in the Penn State only exhibition. Students participating in the Penn State only exhibition will not have work shown in the fully public exhibition. The fully public exhibition will be maintained on the DMD program website as an archive after the exhibition has ended—incorporating willing students' work into the program's heritage.
-
----
+Project two will culminate in an online exhibition of student work. Exhibitions typically have a central theme—a conceptual thread that links the work together. Your instructor will coordinate the online exhibition and will be accessible to anyone with Penn State login credentials.
 
 ## Rubric
 
